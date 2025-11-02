@@ -12,6 +12,6 @@ You must have Python 3 installed on your computer to run this project.
 
 ```bash
 python calculator.py
-
+```
 Developer
 06Yasin
